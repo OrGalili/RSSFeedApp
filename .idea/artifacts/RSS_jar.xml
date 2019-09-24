@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RSS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RSS_jar</output-path>
+    <root id="archive" name="RSS.jar">
+      <element id="module-output" name="RSS" />
+    </root>
+  </artifact>
+</component>
