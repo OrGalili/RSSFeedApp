@@ -108,6 +108,7 @@ public class RSS_GUI extends JFrame implements ActionListener , MouseListener {
 
     private RSS_GUI() {
         super("RssGUI");
+        this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setVisible(true);
         setBounds(50, 50, 700, 600);
 
